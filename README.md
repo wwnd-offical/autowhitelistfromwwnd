@@ -1,4 +1,4 @@
-# MC Discord Whitelist Sync
+# MC Discord Whitelist Sync(每一版將會多+1個readme)
 
 透過 Discord 身分組驗證會員資格，讓玩家自助申請 Minecraft 伺服器白名單，不需要 RCON。
 
